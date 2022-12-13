@@ -5,4 +5,8 @@ public class Clase1 {
         String br1="rama br1";
         String br2="rama br2";
     }
+
+    public static void metodoBr3(){
+        //método en desarrollo
+    }
 }
