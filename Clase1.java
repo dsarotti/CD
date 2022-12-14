@@ -9,4 +9,8 @@ public class Clase1 {
     public static void metodoBr3(){
         //método en desarrollo
     }
+    
+    public static void metodorbr2(int numero){
+        //implementar numero
+    }
 }
